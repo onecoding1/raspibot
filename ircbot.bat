@@ -1,0 +1,2 @@
+ircbot.py
+pause
